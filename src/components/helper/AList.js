@@ -1,8 +1,8 @@
 import React from "react";
-import "./AtfLi.css";
+import "./AList.css";
 import Text from "./Text";
 
-const AtfLi = (props) => {
+const AList = (props) => {
   return (
     <li className={"atfLi " + props.active}>
       <Text classList="text--h5">{props.h5}</Text>
@@ -14,4 +14,4 @@ const AtfLi = (props) => {
   );
 };
 
-export default AtfLi;
+export default AList;
