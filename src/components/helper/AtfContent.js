@@ -1,7 +1,7 @@
 import React from "react";
-import AList from "./AList";
+import AtfLi from "./AtfLi";
 
-const fContent = (props) => {
+const AtfContent = (props) => {
   const data = [
     {
       h5: "Clear, confident communication",
@@ -24,10 +24,10 @@ const fContent = (props) => {
   return (
     <ul className="grow">
       {data.map((cont, index) => {
-        return <AList key={index} h5={cont.h5} tiny={cont.tiny} active={props.slideNum == index ? "active" : ""} />;
+        return <AtfLi key={index} h5={cont.h5} tiny={cont.tiny} active={props.slideNum == index ? "active" : ""} />;
       })}
     </ul>
   );
 };
 
-export default fContent;
+export default AtfContent;

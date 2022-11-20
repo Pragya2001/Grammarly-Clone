@@ -3,8 +3,8 @@ import Section from "./helper/Section";
 import Text from "./helper/Text";
 import Button from "./helper/Button";
 import "./Section1.css";
-import fContent from "./helper/fContent";
-import fImages from "./helper/fImages";
+import AtfContent from "./helper/AtfContent";
+import AtfImages from "./helper/AtfImages";
 
 const Section1 = () => {
   const [slideCounter, setSlideCounter] = useState(0);
@@ -32,10 +32,10 @@ const Section1 = () => {
       <div className="sliderContent">
         <div className="container colsContainer twoCols">
           <div className="col col1">
-            <fImages slideNum={slideCounter} />
+            <AtfImages slideNum={slideCounter} />
           </div>
           <div className="col col2">
-            <fContent slideNum={slideCounter} />
+            <AtfContent slideNum={slideCounter} />
           </div>
         </div>
       </div>
