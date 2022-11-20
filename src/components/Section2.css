@@ -1,0 +1,17 @@
+.section2 {
+  padding: 48px 24px;
+}
+.section2 .colsContainer {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 48px;
+}
+.section2 .col {
+  width: 42%;
+}
+@media screen and (max-width: 870px) {
+  .section2 .col {
+    width: 100%;
+ }
+}
