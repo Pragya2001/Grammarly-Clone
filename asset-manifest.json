@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Grammarly-Clone/static/css/main.874f67dd.chunk.css",
-    "main.js": "/Grammarly-Clone/static/js/main.0d58bd4c.chunk.js",
-    "main.js.map": "/Grammarly-Clone/static/js/main.0d58bd4c.chunk.js.map",
+    "main.css": "/Grammarly-Clone/static/css/main.bd25c268.chunk.css",
+    "main.js": "/Grammarly-Clone/static/js/main.24107bd0.chunk.js",
+    "main.js.map": "/Grammarly-Clone/static/js/main.24107bd0.chunk.js.map",
     "runtime-main.js": "/Grammarly-Clone/static/js/runtime-main.069f02f7.js",
     "runtime-main.js.map": "/Grammarly-Clone/static/js/runtime-main.069f02f7.js.map",
     "static/css/2.a94b6df7.chunk.css": "/Grammarly-Clone/static/css/2.a94b6df7.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.12db3cab.chunk.js.map": "/Grammarly-Clone/static/js/3.12db3cab.chunk.js.map",
     "index.html": "/Grammarly-Clone/index.html",
     "static/css/2.a94b6df7.chunk.css.map": "/Grammarly-Clone/static/css/2.a94b6df7.chunk.css.map",
-    "static/css/main.874f67dd.chunk.css.map": "/Grammarly-Clone/static/css/main.874f67dd.chunk.css.map",
+    "static/css/main.bd25c268.chunk.css.map": "/Grammarly-Clone/static/css/main.bd25c268.chunk.css.map",
     "static/js/2.840e3b1a.chunk.js.LICENSE.txt": "/Grammarly-Clone/static/js/2.840e3b1a.chunk.js.LICENSE.txt",
     "static/media/FeatureBox.css": "/Grammarly-Clone/static/media/checkmark.e4b270fc.svg",
     "static/media/slide1-big.655eccbf.svg": "/Grammarly-Clone/static/media/slide1-big.655eccbf.svg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.069f02f7.js",
     "static/css/2.a94b6df7.chunk.css",
     "static/js/2.840e3b1a.chunk.js",
-    "static/css/main.874f67dd.chunk.css",
-    "static/js/main.0d58bd4c.chunk.js"
+    "static/css/main.bd25c268.chunk.css",
+    "static/js/main.24107bd0.chunk.js"
   ]
 }
