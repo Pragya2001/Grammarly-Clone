@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Grammarly-Clone/static/css/main.bd25c268.chunk.css",
+    "main.js": "/Grammarly-Clone/static/js/main.24107bd0.chunk.js",
+    "main.js.map": "/Grammarly-Clone/static/js/main.24107bd0.chunk.js.map",
+    "runtime-main.js": "/Grammarly-Clone/static/js/runtime-main.069f02f7.js",
+    "runtime-main.js.map": "/Grammarly-Clone/static/js/runtime-main.069f02f7.js.map",
+    "static/css/2.a94b6df7.chunk.css": "/Grammarly-Clone/static/css/2.a94b6df7.chunk.css",
+    "static/js/2.840e3b1a.chunk.js": "/Grammarly-Clone/static/js/2.840e3b1a.chunk.js",
+    "static/js/2.840e3b1a.chunk.js.map": "/Grammarly-Clone/static/js/2.840e3b1a.chunk.js.map",
+    "static/js/3.12db3cab.chunk.js": "/Grammarly-Clone/static/js/3.12db3cab.chunk.js",
+    "static/js/3.12db3cab.chunk.js.map": "/Grammarly-Clone/static/js/3.12db3cab.chunk.js.map",
+    "index.html": "/Grammarly-Clone/index.html",
+    "static/css/2.a94b6df7.chunk.css.map": "/Grammarly-Clone/static/css/2.a94b6df7.chunk.css.map",
+    "static/css/main.bd25c268.chunk.css.map": "/Grammarly-Clone/static/css/main.bd25c268.chunk.css.map",
+    "static/js/2.840e3b1a.chunk.js.LICENSE.txt": "/Grammarly-Clone/static/js/2.840e3b1a.chunk.js.LICENSE.txt",
+    "static/media/FeatureBox.css": "/Grammarly-Clone/static/media/checkmark.e4b270fc.svg",
+    "static/media/slide1-big.655eccbf.svg": "/Grammarly-Clone/static/media/slide1-big.655eccbf.svg",
+    "static/media/slide1-small.d2416f24.svg": "/Grammarly-Clone/static/media/slide1-small.d2416f24.svg",
+    "static/media/slide2-big.3ae54aab.svg": "/Grammarly-Clone/static/media/slide2-big.3ae54aab.svg",
+    "static/media/slide2-small.7b689c5e.svg": "/Grammarly-Clone/static/media/slide2-small.7b689c5e.svg",
+    "static/media/slide3-big.02c55be9.svg": "/Grammarly-Clone/static/media/slide3-big.02c55be9.svg",
+    "static/media/slide3-small.c57ae55d.svg": "/Grammarly-Clone/static/media/slide3-small.c57ae55d.svg",
+    "static/media/slide4-big.99fe2ff1.svg": "/Grammarly-Clone/static/media/slide4-big.99fe2ff1.svg",
+    "static/media/slide4-small.97b53bb0.svg": "/Grammarly-Clone/static/media/slide4-small.97b53bb0.svg",
+    "static/media/Section1.css": "/Grammarly-Clone/static/media/swoosh_atf.f6044d4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.069f02f7.js",
+    "static/css/2.a94b6df7.chunk.css",
+    "static/js/2.840e3b1a.chunk.js",
+    "static/css/main.bd25c268.chunk.css",
+    "static/js/main.24107bd0.chunk.js"
+  ]
+}
